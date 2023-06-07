@@ -18,11 +18,11 @@ const Chef = () => (
         <div className="app__chef-content_qoute">
           <img src={images.quote} alt="qoute" />
           <p className="p__opensans">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            I believe that cooking is an art form, and that every dish is an opportunity to create something unique and beautiful.
           </p>
         </div>
         <p className="p__opensans">
-         Beatae, earum ad. Quisquam molestias consectetur ab quod impedit. Iste fugit doloribus commodi? Aspernatur similique laudantium obcaecati qui. Harum nobis, architecto quia consequuntur magni dignissimos odit libero, ullam atque labore vitae commodi nemo. Totam a ducimus quisquam quia aliquam provident blanditiis pariatur.
+          At Gericht, we are passionate about using the freshest, highest-quality ingredients to create dishes that not only taste amazing, but also delight the senses and inspire the imagination. Whether you're a longtime fan of our restaurant or a first-time guest, we are dedicated to providing you with a dining experience that you will never forget.
         </p>
       </div>
 

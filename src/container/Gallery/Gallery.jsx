@@ -23,7 +23,7 @@ const Gallery = () => {
         <SubHeading title='Instagram' />
         <h1 className="headtext__cormorant">photo gallery</h1>
         <p className="p__opensans" style={{ color: "#aaa", marginTop: '2rem'}}>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias illum ipsum vel? Deserunt unde sunt distinctio vitae! Illum quas atque quis deserunt, aliquam rerum molestiae!
+          Take a look at some of our favorite moments captured at Gericht. Our photos showcase our commitment to exceptional food, service, and hospitality.
         </p>
         <button type='button' className='custom__button'>View More</button>
       </div>

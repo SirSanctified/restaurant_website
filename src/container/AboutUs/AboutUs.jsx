@@ -14,7 +14,7 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about us spoon" className='spoon__img' />
         <p className="p__opensans">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium alias laudantium repellat!
+          Gericht is a modern fine dining restaurant dedicated to providing exceptional dining experiences through innovative cuisine, locally-sourced ingredients, and attentive service.
         </p>
         <button type='button' className='custom__button'>Know More</button>
       </div>
@@ -26,7 +26,7 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about us spoon" className='spoon__img' />
         <p className="p__opensans">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium alias laudantium repellat!
+          Founded in 2005 by acclaimed chef Kevin Luo, Gericht has been a fixture in the local dining scene for over a decade. From its humble beginnings as a small bistro, Gericht has grown to become one of the city's premier fine dining destinations, renowned for its innovative cuisine and sophisticated atmosphere.
         </p>
         <button type='button' className='custom__button'>Know More</button>
       </div>
