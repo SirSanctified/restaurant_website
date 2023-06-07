@@ -2,7 +2,7 @@
 
 This project is a simple website for a restaurant built using ReactJS as a learning exercise. It features a homepage with multiple sections including About, Special Menu, Laurels, and Contact sections.
 
-The goal of this project was to gain a better understanding of how to build a website using ReactJS, as well as to practice utilizing Bootstrap and responsive design principles. The website is designed to be mobile-first, making it accessible and easy to use on devices of all sizes.
+The goal of this project was to gain a better understanding of how to build a website using ReactJS, as well as to practice utilizing responsive design principles. The website is designed to be mobile-first, making it accessible and easy to use on devices of all sizes.
 
 ## Getting Started
 
