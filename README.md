@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Restaurant Website built with ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple website for a restaurant built using ReactJS as a learning exercise. It features a homepage with multiple sections including About, Special Menu, Laurels, and Contact sections.
 
-## Available Scripts
+The goal of this project was to gain a better understanding of how to build a website using ReactJS, as well as to practice utilizing Bootstrap and responsive design principles. The website is designed to be mobile-first, making it accessible and easy to use on devices of all sizes.
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+To get started with this project, clone this repository to your local machine:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```sh
+git clone https://github.com/SirSanctified/restaurant_website.git
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+After cloning the repository, navigate to the project directory and install the required dependencies using the following command:
 
-### `npm test`
+```sh
+npm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Once the dependencies are installed, you can start the development server using the following command:
 
-### `npm run build`
+```sh
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This will start the development server and open the website in your default browser. Any changes you make to the code will be automatically reflected in the browser.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This website includes the following sections:
 
-### `npm run eject`
+### About
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Featuring a section describing the restaurant's history and mission statement. This section is designed to give customers a better understanding of the restaurant's values and what sets it apart from other dining options.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Special Menu
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Featuring a list of special menu items with their images, descriptions, and prices. This section is designed to showcase the restaurant's unique and popular dishes, and entice customers to visit and try them out.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Laurels
 
-## Learn More
+Featuring a section highlighting any awards or recognition the restaurant has received. This section is designed to build credibility and trust with potential customers, and show that the restaurant is a respected and reputable dining option.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Newsletter
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Stay up-to-date with the latest news and promotions from the restaurant by signing up for their newsletter!
 
-### Code Splitting
+## Technologies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project was built using the following technologies:
 
-### Analyzing the Bundle Size
+- ReactJS
+- CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Acknowledgments
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was inspired by a coding walkthrough from JSMastery. Thank you to the ReactJS community for creating such a great framework!
